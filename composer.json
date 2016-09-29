@@ -13,7 +13,6 @@
     ],
     "require": {
         "php": "~5.4.0|~7.0.0",
-        "phossa2/shared": "^2.0.21",
         "composer-plugin-api": "^1.0"
     },
     "require-dev": {
